@@ -7,6 +7,6 @@ public class Demo1 {
 
 	List list=new ArrayList();
 	
-	System.out.println("Yo");
+	System.out.println("Hoe");
 	
 }
